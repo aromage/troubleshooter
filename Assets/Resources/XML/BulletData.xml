@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Data>
+	<Bullet Index="101" MoveType="1" HitType="2" Speed="1600" MuzzleCount="1" MuzzleAngle="0" Amount="1" Repeat="1" Delay="0.4" Period="0.7" Size="40"/>
+	<Bullet Index="102" MoveType="1" HitType="2" Speed="1600" MuzzleCount="1" MuzzleAngle="0" Amount="1" Repeat="1" Delay="0.3" Period="0.6" Size="40"/>
+	<Bullet Index="103" MoveType="1" HitType="2" Speed="1600" MuzzleCount="1" MuzzleAngle="0" Amount="1" Repeat="1" Delay="0.2" Period="0.5" Size="55"/>
+	<Bullet Index="201" MoveType="1" HitType="0" Speed="1800" MuzzleCount="1" MuzzleAngle="0" Amount="1" Repeat="4" Delay="0.11" Period="0.44" Size="24"/>
+	<Bullet Index="202" MoveType="1" HitType="0" Speed="1800" MuzzleCount="2" MuzzleAngle="0" Amount="1" Repeat="4" Delay="0.09" Period="0.36" Size="24"/>
+	<Bullet Index="203" MoveType="1" HitType="0" Speed="1800" MuzzleCount="2" MuzzleAngle="0" Amount="1" Repeat="4" Delay="0.07" Period="0.28" Size="36"/>
+	<Bullet Index="301" MoveType="1" HitType="1" Speed="1500" MuzzleCount="1" MuzzleAngle="0" Amount="1" Repeat="1" Delay="0.2" Period="0.8" Size="24"/>
+	<Bullet Index="302" MoveType="1" HitType="1" Speed="1500" MuzzleCount="1" MuzzleAngle="0" Amount="1" Repeat="2" Delay="0.2" Period="0.8" Size="24"/>
+	<Bullet Index="303" MoveType="1" HitType="1" Speed="1500" MuzzleCount="1" MuzzleAngle="0" Amount="1" Repeat="3" Delay="0.2" Period="0.8" Size="24"/>
+	<Bullet Index="401" MoveType="1" HitType="0" Speed="1000" MuzzleCount="4" MuzzleAngle="15" Amount="1" Repeat="4" Delay="0.1" Period="1.3" Size="16"/>
+	<Bullet Index="402" MoveType="1" HitType="0" Speed="1000" MuzzleCount="8" MuzzleAngle="25" Amount="1" Repeat="8" Delay="0.1" Period="1.3" Size="24"/>
+	<Bullet Index="403" MoveType="1" HitType="0" Speed="1000" MuzzleCount="12" MuzzleAngle="35" Amount="1" Repeat="12" Delay="0.1" Period="1.3" Size="28"/>
+	<Bullet Index="501" MoveType="2" HitType="1" Speed="1300" MuzzleCount="2" MuzzleAngle="20" Amount="2" Repeat="1" Delay="1" Period="1" Size="20"/>
+	<Bullet Index="502" MoveType="2" HitType="1" Speed="1300" MuzzleCount="2" MuzzleAngle="20" Amount="3" Repeat="1" Delay="1" Period="1" Size="28"/>
+	<Bullet Index="503" MoveType="2" HitType="1" Speed="1300" MuzzleCount="3" MuzzleAngle="20" Amount="3" Repeat="1" Delay="1" Period="1" Size="24"/>
+	<Bullet Index="601" MoveType="1" HitType="1" Speed="1600" MuzzleCount="1" MuzzleAngle="0" Amount="1" Repeat="1" Delay="0.2" Period="0.5" Size="40"/>
+	<Bullet Index="602" MoveType="1" HitType="1" Speed="1600" MuzzleCount="1" MuzzleAngle="0" Amount="1" Repeat="1" Delay="0.2" Period="0.5" Size="50"/>
+	<Bullet Index="603" MoveType="1" HitType="1" Speed="1600" MuzzleCount="1" MuzzleAngle="0" Amount="1" Repeat="1" Delay="0.2" Period="0.5" Size="60"/>
+	<Bullet Index="701" MoveType="1" HitType="0" Speed="1700" MuzzleCount="2" MuzzleAngle="0" Amount="1" Repeat="4" Delay="0.11" Period="0.44" Size="24"/>
+	<Bullet Index="702" MoveType="1" HitType="0" Speed="1700" MuzzleCount="2" MuzzleAngle="0" Amount="1" Repeat="4" Delay="0.09" Period="0.36" Size="24"/>
+	<Bullet Index="703" MoveType="1" HitType="0" Speed="1700" MuzzleCount="2" MuzzleAngle="0" Amount="1" Repeat="4" Delay="0.07" Period="0.28" Size="24"/>
+	<Bullet Index="801" MoveType="1" HitType="1" Speed="1500" MuzzleCount="1" MuzzleAngle="0" Amount="1" Repeat="1" Delay="0.2" Period="0.5" Size="30"/>
+	<Bullet Index="802" MoveType="1" HitType="1" Speed="1500" MuzzleCount="2" MuzzleAngle="22" Amount="2" Repeat="1" Delay="0.2" Period="0.5" Size="30"/>
+	<Bullet Index="803" MoveType="1" HitType="1" Speed="1500" MuzzleCount="3" MuzzleAngle="45" Amount="3" Repeat="1" Delay="0.2" Period="0.5" Size="30"/>
+</Data>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Data>
+	<Quest Index="1" Name="숲속 탐험" Description="가벼운 마음으로 숲으로 가자. 쉽게 가려다가 큰 코 다쳐도 모르지만....&#xA;&#xA;적정레벨 : 제한 없음&#xA;&#xA;필요 능력 : 기초적인 컨트롤&#xA;&#xA;보상 : 최대 50골드" StaminaCost="1" MapIndex="6" Mode="0" EnemySpawnType="4" Boss="1" MaxGold="5" GoodScore="1" GreatScore="1"/>
+	<Quest Index="2" Name="흐린뒤 얼음?" Description="폭풍속에서 먹구름을 피해가며 &#xA;폭풍의 근원인 얼음새를 처치하자!&#xA;&#xA;적정레벨 : 제한 없음&#xA;&#xA;필요 능력 : 컨트롤, 대담함&#xA;&#xA;보상 : 최대 150골드" StaminaCost="1" MapIndex="5" Mode="0" EnemySpawnType="9" Boss="2" MaxGold="15" GoodScore="1" GreatScore="1"/>
+	<Quest Index="3" Name="숲속 탐험&#xA; - 심화 과정 -" Description="조금은 무거운 마음으로 숲속을 가보자. 정신 차리지 않으면 위험할지도?&#xA;&#xA;적정레벨 : 21레벨 이상&#xA;&#xA;필요 능력 : 그동안의 경험?&#xA;&#xA;보상 : 100골드" StaminaCost="1" MapIndex="1" Mode="0" EnemySpawnType="5" Boss="1" MaxGold="200" GoodScore="1" GreatScore="1"/>
+	<Quest Index="4" Name="무서운 토끼들!" Description="숲속의 붉은 토끼들의 공격을 뚫고 우두머리 토끼들을 사냥하라!&#xA;&#xA;적정레벨 : 제한 없음&#xA;&#xA;필요 능력 : 동체시력, 컨트롤, 순간적인 판단!&#xA;&#xA;보상 : 최대 100 골드" StaminaCost="1" MapIndex="1" Mode="0" EnemySpawnType="1" Boss="1" MaxGold="30" GoodScore="190000" GreatScore="200000"/>
+	<Quest Index="5" Name="얼음의 성으로" Description="하늘에 떠있는 얼음의 성으로 간다.&#xA;숲과는 비교도 안된다. 정신 바짝 차리자&#xA;&#xA;적정레벨 : 31레벨 이상&#xA;&#xA;Tip! : 물은 풀에 약하다&#xA;&#xA;보상 : 120골드" StaminaCost="2" MapIndex="2" Mode="0" EnemySpawnType="6" Boss="2" MaxGold="240" GoodScore="1" GreatScore="1"/>
+	<Quest Index="6" Name="모래속의 용암" Description="사막 한가운데 화산이 생겨났다. 가봐야 하지 않을까?&#xA;화산속에 뭐가 있을지 모르니 주의하자!&#xA;&#xA;적정레벨 : 41레벨&#xA;&#xA;Tip! : 사막과 화산엔 물이 귀하다!&#xA;&#xA;보상 : 170 골드" StaminaCost="2" MapIndex="3" Mode="0" EnemySpawnType="7" Boss="3" MaxGold="340" GoodScore="1" GreatScore="1"/>
+	<Quest Index="7" Name="박쥐의 공포&#xA; - 차라리 토끼가 낫다. -" Description="박쥐떼의 습격을 견디며 우두머리 박쥐를 처치하여&#xA;박쥐떼를 토벌하자&#xA;&#xA;필요 능력 : 41레벨 이상의 파티&#xA;&#xA;보상 : 최대 200골드" StaminaCost="1" MapIndex="4" Mode="0" EnemySpawnType="2" Boss="2" MaxGold="20" GoodScore="2900" GreatScore="200000"/>
+	<Quest Index="1000" Name="무한모드" Description="협회에서 정찰을 의뢰했다. 숲속 깊은 곳에 세계수 앞에 떨어진 운석을 조사하라는 의뢰이다.&#xA;숲 속 깊은 곳 까지 가서 확인하고 오자&#xA;&#xA;목표 :&#xA;숲속 깊은 곳 정찰 0 / 1 &#xA;이프리트 공략 성공 0 / 1" StaminaCost="0" MapIndex="1000" Mode="1" EnemySpawnType="1001" Boss="1" MaxGold="150" GoodScore="1" GreatScore="1"/>
+</Data>

@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  tags:
+  - player
+  - enemy
+  - bullet
+  - bullet_enemy
+  - item
+  - Hud_able
+  - Hud_disable
+  - boss
+  - boss_part
+  - boss_element
+  - laser
+  - energy_ball
+  - shield
+  - player_sub
+  - main
+  - guild
+  - check
+  - charactor
+  - 
+  - Hud
+  - 
+  - icon
+  - letter
+  - 
+  - r_map
+  - item_core
+  - 
+  Builtin Layer 0: Default
+  Builtin Layer 1: TransparentFX
+  Builtin Layer 2: Ignore Raycast
+  Builtin Layer 3: 
+  Builtin Layer 4: Water
+  Builtin Layer 5: UI
+  Builtin Layer 6: 
+  Builtin Layer 7: 
+  User Layer 8: 
+  User Layer 9: 
+  User Layer 10: 
+  User Layer 11: 
+  User Layer 12: 
+  User Layer 13: 
+  User Layer 14: 
+  User Layer 15: 
+  User Layer 16: 
+  User Layer 17: 
+  User Layer 18: 
+  User Layer 19: 
+  User Layer 20: 
+  User Layer 21: 
+  User Layer 22: 
+  User Layer 23: 
+  User Layer 24: 
+  User Layer 25: 
+  User Layer 26: 
+  User Layer 27: 
+  User Layer 28: 
+  User Layer 29: 
+  User Layer 30: 
+  User Layer 31: 
+  m_SortingLayers:
+  - name: BG_bottom
+    userID: 1
+    uniqueID: 2140181495
+    locked: 0
+  - name: Enemy
+    userID: 4
+    uniqueID: 3912422399
+    locked: 0
+  - name: Player
+    userID: 5
+    uniqueID: 3366317883
+    locked: 0
+  - name: Default
+    userID: 0
+    uniqueID: 0
+    locked: 0
+  - name: Item
+    userID: 2
+    uniqueID: 321060739
+    locked: 0
+  - name: Skill
+    userID: 11
+    uniqueID: 739232785
+    locked: 0
+  - name: Bullet
+    userID: 3
+    uniqueID: 2808266131
+    locked: 0
+  - name: BG_upper
+    userID: 8
+    uniqueID: 2962857415
+    locked: 0
+  - name: Screen
+    userID: 10
+    uniqueID: 1017876493
+    locked: 0
+  - name: HUD
+    userID: 6
+    uniqueID: 102925067
+    locked: 0
+  - name: HUD Button
+    userID: 7
+    uniqueID: 2169607313
+    locked: 0
+  - name: Letterbox
+    userID: 9
+    uniqueID: 2265857337
+    locked: 0

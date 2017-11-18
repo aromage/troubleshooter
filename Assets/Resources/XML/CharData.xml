@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Data>
+	<Character Index="1" ResourceName="Yeon" Price="0" Attribute="1" HealthPoint="83" ManaPoint="100" DefensePoint="0" AttackPoint="154" Speed="2000" SkillIndex="1" BulletIndex="101" Name="연홍린" SkillName="불의 파장" SkillDesc="불을 터트린다" SkillManaCost="80"/>
+	<Character Index="2" ResourceName="Qu" Price="0" Attribute="3" HealthPoint="74" ManaPoint="100" DefensePoint="0" AttackPoint="20" Speed="1800" SkillIndex="3" BulletIndex="201" Name="큐레아나" SkillName="일격의 화살" SkillDesc="모든 힘을 모은 화살을 발사한다." SkillManaCost="150"/>
+	<Character Index="3" ResourceName="Mel" Price="0" Attribute="2" HealthPoint="148" ManaPoint="100" DefensePoint="0" AttackPoint="127" Speed="2200" SkillIndex="2" BulletIndex="301" Name="멜리사" SkillName="기사의 기도" SkillDesc="모든 공격을 막는다." SkillManaCost="50"/>
+	<Character Index="4" ResourceName="Han" Price="0" Attribute="2" HealthPoint="98" ManaPoint="100" DefensePoint="0" AttackPoint="37" Speed="1500" SkillIndex="4" BulletIndex="401" Name="한설린" SkillName="한기 폭발" SkillDesc="주변의 모든 적을 얼린다." SkillManaCost="40"/>
+	<Character Index="5" ResourceName="Bau" Price="0" Attribute="3" HealthPoint="96" ManaPoint="100" DefensePoint="0" AttackPoint="147" Speed="1700" SkillIndex="5" BulletIndex="501" Name="바우니구스" SkillName="가을의 노래" SkillDesc="공격 속도를 빠르게한다" SkillManaCost="70"/>
+	<Character Index="6" ResourceName="Cro" Price="0" Attribute="1" HealthPoint="136" ManaPoint="100" DefensePoint="0" AttackPoint="142" Speed="2000" SkillIndex="6" BulletIndex="601" Name="크로낙사르" SkillName="전투의 외침" SkillDesc="모든 공격을 강화한다." SkillManaCost="60"/>
+	<Character Index="7" ResourceName="Mish" Price="0" Attribute="1" HealthPoint="148" ManaPoint="100" DefensePoint="0" AttackPoint="23" Speed="1800" SkillIndex="7" BulletIndex="701" Name="미쉘" SkillName="그랜드 크로스" SkillDesc="전방에 거대한 마법진을 설치한다." SkillManaCost="80"/>
+	<Character Index="8" ResourceName="Aden" Price="0" Attribute="2" HealthPoint="142" ManaPoint="100" DefensePoint="0" AttackPoint="141" Speed="2000" SkillIndex="8" BulletIndex="801" Name="에이든" SkillName="힘찬 항해" SkillDesc="직선으로 배를 발사한다." SkillManaCost="80"/>
+</Data>
